@@ -1,4 +1,4 @@
-![descripcion](1.png)
+<img src = 1.png >
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
