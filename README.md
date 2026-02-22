@@ -29,7 +29,7 @@
     ![Canva](https://img.shields.io/badge/Canva-000.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## MENU 
-<img src = 5.jpg >
+<img src = 5. >
 <img src = 2.jpg >
 <img src = 3.jpg >
 <img src = 4.jpg >
