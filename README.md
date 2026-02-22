@@ -44,5 +44,5 @@
 [![Capacitación AUREA SPA   Jan 14 2026](https://ytcards.demolab.com/?id=K2TboEBbEcw&title=Capacitacio%CC%81n+AUREA+SPA+++Jan+14+2026&lang=en&timestamp=1769041142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación AUREA SPA   Jan 14 2026")](https://www.youtube.com/watch?v=K2TboEBbEcw)
 [![Capacitación AUREA SPA   Jan 8 2026](https://ytcards.demolab.com/?id=t9BaB1OY3DE&title=Capacitacio%CC%81n+AUREA+SPA+++Jan+8+2026&lang=en&timestamp=1769041028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación AUREA SPA   Jan 8 2026")](https://www.youtube.com/watch?v=t9BaB1OY3DE)
 <!-- END YOUTUBE-CARDS -->
->>>>>>> 4bf54f8543949d31c470e71ddc32d237729fe225
+
 <img src = 6.jpg >
