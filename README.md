@@ -44,7 +44,12 @@
 ## PROJECT TRANNING
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Capacitación RH ODOO Sesión 4   Feb 17 2026](https://ytcards.demolab.com/?id=dPBYhwcRgRQ&title=Capacitacio%CC%81n+RH+ODOO+Sesi%C3%B3n+4+++Feb+17+2026&lang=en&timestamp=1771357466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación RH ODOO Sesión 4   Feb 17 2026")](https://www.youtube.com/watch?v=dPBYhwcRgRQ)
+[![Capacitación Asignación y validación de vacaciones Plan de acumulación](https://ytcards.demolab.com/?id=mFwuXYY31vI&title=Capacitaci%C3%B3n+Asignaci%C3%B3n+y+validaci%C3%B3n+de+vacaciones+Plan+de+acumulaci%C3%B3n&lang=en&timestamp=1769621293&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación Asignación y validación de vacaciones Plan de acumulación")](https://www.youtube.com/watch?v=mFwuXYY31vI)
+[![CapacitaciónAsignación regular y validación/ rechazo de vacaciones](https://ytcards.demolab.com/?id=XK6WfkDkD2g&title=Capacitaci%C3%B3nAsignaci%C3%B3n+regular+y+validaci%C3%B3n%2F+rechazo+de+vacaciones&lang=en&timestamp=1769621207&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CapacitaciónAsignación regular y validación/ rechazo de vacaciones")](https://www.youtube.com/watch?v=XK6WfkDkD2g)
+[![Capacitacion Rh- Documentos Odoo](https://ytcards.demolab.com/?id=WSGv0nC-RIE&title=Capacitacion+Rh-+Documentos+Odoo&lang=en&timestamp=1769619474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitacion Rh- Documentos Odoo")](https://www.youtube.com/watch?v=WSGv0nC-RIE)
+[![Capacitación AUREA SPA   Jan 14 2026](https://ytcards.demolab.com/?id=K2TboEBbEcw&title=Capacitacio%CC%81n+AUREA+SPA+++Jan+14+2026&lang=en&timestamp=1769041142&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación AUREA SPA   Jan 14 2026")](https://www.youtube.com/watch?v=K2TboEBbEcw)
+[![Capacitación AUREA SPA   Jan 8 2026](https://ytcards.demolab.com/?id=t9BaB1OY3DE&title=Capacitacio%CC%81n+AUREA+SPA+++Jan+8+2026&lang=en&timestamp=1769041028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación AUREA SPA   Jan 8 2026")](https://www.youtube.com/watch?v=t9BaB1OY3DE)
 <!-- END YOUTUBE-CARDS -->
 
 <img src = 6.jpg >
