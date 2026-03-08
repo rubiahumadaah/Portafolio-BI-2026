@@ -37,7 +37,7 @@
 
 ## [SECOND](https://github.com/rubiahumadaah/-Project-Monitoring-2023---2026)
 <img src = 4.jpg >
-<img src = project.png>
+<img src = project1.png>
 
 ## PROJECT TRANNING
 
