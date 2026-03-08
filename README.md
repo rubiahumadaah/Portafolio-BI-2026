@@ -33,13 +33,11 @@
 
 ## [FIRST](https://github.com/rubiahumadaah/Structural-Gaps-in-Female-Scientific-Recognition-1903-2025-)
 <img src = 2.jpg >
+<img src = hoja1.jpg >
 
-## [SECOND](https://github.com/rubiahumadaah/Stock-Analysis-and-Product-Turnover)
-
-<img src = 3.jpg>
-
-## [THIRD](https://github.com/rubiahumadaah/-Project-Monitoring-2023---2026)
+## [SECOND](https://github.com/rubiah](https://github.com/rubiahumadaah/-Project-Monitoring-2023---2026)
 <img src = 4.jpg >
+<img src = project1.jpg >
 
 ## PROJECT TRANNING
 
