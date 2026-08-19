@@ -42,12 +42,7 @@
 ## PROJECT TRANNING
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![DEMOSTRACIÓN ODOO-RH](https://ytcards.demolab.com/?id=CUKcPmiCuRQ&title=DEMOSTRACI%C3%93N+ODOO-RH&lang=en&timestamp=1777330094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DEMOSTRACIÓN ODOO-RH")](https://www.youtube.com/watch?v=CUKcPmiCuRQ)
-[![Rh  Validación de proceso Modulo Vacaciones   2026 04 09 09 02 CST   Recording](https://ytcards.demolab.com/?id=-Z_KcVwvkXk&title=Rh++Validacio%CC%81n+de+proceso+Modulo+Vacaciones+++2026+04+09+09+02+CST+++Recording&lang=en&timestamp=1776108812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rh  Validación de proceso Modulo Vacaciones   2026 04 09 09 02 CST   Recording")](https://www.youtube.com/watch?v=-Z_KcVwvkXk)
-[![HERRAJES   Validación re importación RH](https://ytcards.demolab.com/?id=huwuZLhSuPk&title=HERRAJES+++Validacio%CC%81n+re+importacio%CC%81n+RH&lang=en&timestamp=1776107984&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HERRAJES   Validación re importación RH")](https://www.youtube.com/watch?v=huwuZLhSuPk)
-[![Segunda sesión de capacitación ( Modulo proyectos)   Mar 13 2026](https://ytcards.demolab.com/?id=U7uhw3HAbiM&title=Segunda+sesio%CC%81n+de+capacitacio%CC%81n+%28+Modulo+proyectos%29+++Mar+13+2026&lang=en&timestamp=1773439747&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Segunda sesión de capacitación ( Modulo proyectos)   Mar 13 2026")](https://www.youtube.com/watch?v=U7uhw3HAbiM)
-[![Creación y asignación de vacaciones de un nuevo empleado](https://ytcards.demolab.com/?id=UeclHh9hAs0&title=Creacio%CC%81n+y+asignacio%CC%81n+de+vacaciones+de+un+nuevo+empleado&lang=en&timestamp=1773438344&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Creación y asignación de vacaciones de un nuevo empleado")](https://www.youtube.com/watch?v=UeclHh9hAs0)
-[![Capacitación Herrajes Módulo proyectos    Mar 11 2026](https://ytcards.demolab.com/?id=WHHXCogSPHQ&title=Capacitacio%CC%81n+Herrajes+Mo%CC%81dulo+proyectos++++Mar+11+2026&lang=en&timestamp=1773438110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Capacitación Herrajes Módulo proyectos    Mar 11 2026")](https://www.youtube.com/watch?v=WHHXCogSPHQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 <img src = 6.jpg >
